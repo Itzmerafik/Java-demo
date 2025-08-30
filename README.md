@@ -1,4 +1,4 @@
 # Java-demo
 This is my first Git Repository.
 <br>
-Author - Rafik Mohammad
+Author - Rafik (apna college)
